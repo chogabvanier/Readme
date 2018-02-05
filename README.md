@@ -1,6 +1,2 @@
 # Readme
-What are your future aspirations in computer programming?
-What do you like best about Computer Programming?
-What do you like least about Computer Programming?
-
-My programming experience is Grade 10 and Grade 11 computer science courses. I also started playing with programming for about a year before Grade 10 on my own. I am comfortable in Turing, Pascal and Python. 
+My programming experience is Grade 10 and Grade 11 computer science courses. I also started playing with programming for about a year before Grade 10 on my own. I am comfortable in Turing, Pascal and Python. I have applied to computer science in many universities and I want to become a game develepor after university. What I like most about computer programming is the thinking. It's fun to me and it's like a logic puzzle. When something goes right it feels good and I want to do more. What I like least about computer programming is the repition involved in some scenarios.
